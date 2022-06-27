@@ -1,0 +1,16 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BasicApplication",
+            "request": "launch",
+            "mainClass": "BasicApplication",
+            "projectName": "Lab14cz3_9eb08f50",
+            "vmArgs": "--module-path Z:/Windows11/Programowanie/JavaZadania/openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

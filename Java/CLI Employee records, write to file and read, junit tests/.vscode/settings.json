@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-jupiter-5.8.2.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-jupiter-api-5.8.2.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-jupiter-engine-5.8.2.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-jupiter-migrationsupport-5.8.2.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-jupiter-params-5.8.2.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\junit5\\junit-platform-console-standalone-1.8.2.jar"
+    ]
+}

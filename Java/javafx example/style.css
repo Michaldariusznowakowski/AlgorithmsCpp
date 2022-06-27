@@ -1,0 +1,32 @@
+.label {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+    -fx-font-familly: 'serif';
+    -fx-effect: dropshadow( gaussian , rgba(0, 0, 0, 0.5) , 0,0,0,1 );
+    }
+.root {
+    -fx-alignment: center ;
+    -fx-background-image:url("./background.jpg");
+    -fx-background-size: cover;
+}
+PasswordField{
+    -fx-text-fill: #ffffff;
+    -fx-background-color: rgb(23, 0, 65);
+}
+TextField{
+    -fx-text-fill: #ffffff;
+    -fx-background-color: rgb(23, 0, 65);
+}
+Button{
+    -fx-background-color: linear-gradient(to right, #F2FF1A 0%, #FFFFFD 50%, #FFE200 100%);
+    -fx-background-radius: 55px; 
+    -fx-text-fill: rgb(175, 126, 36);
+    -fx-alignment: CENTER;
+    -fx-effect: dropshadow( gaussian , rgba(0, 0, 0, 0.5) , 0,0,0,1);
+}
+#WelcomeText{
+    -fx-font-familly: 'Times New Roman';
+    -fx-text-fill: rgb(255,255,255);
+    -fx-font-size: 25px;
+}

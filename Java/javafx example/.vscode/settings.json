@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.base.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.controls.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.fxml.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.graphics.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.media.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.swing.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx.web.jar",
+        "z:\\Windows11\\Programowanie\\JavaZadania\\openjfx-17.0.1_windows-x64_bin-sdk\\javafx-sdk-17.0.1\\lib\\javafx-swt.jar"
+    ]
+}
